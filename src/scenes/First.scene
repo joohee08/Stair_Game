@@ -1,0 +1,207 @@
+{
+    "id": "28f020e0-eeeb-4795-9040-7b95db1c290d",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "First",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "06cb050c-4f3e-4490-b232-a1fd655711e8",
+            "label": "background",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "background"
+            },
+            "x": 640,
+            "y": 358
+        },
+        {
+            "type": "Image",
+            "id": "8d8d5437-be57-44db-bc00-46719adcf5c1",
+            "label": "mat",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "mat"
+            },
+            "x": 646,
+            "y": 656,
+            "scaleX": 1.25
+        },
+        {
+            "type": "Image",
+            "id": "08c5fdf5-bd6b-428c-86fc-491a5227859e",
+            "label": "chair",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "chair"
+            },
+            "x": 648,
+            "y": 457,
+            "scaleX": 1.15,
+            "scaleY": 1.1
+        },
+        {
+            "type": "Image",
+            "id": "d6251bd2-4e5a-4d21-b123-a065bc06f721",
+            "label": "desk",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "desk"
+            },
+            "x": 643,
+            "y": 543,
+            "scaleX": 1.1
+        },
+        {
+            "type": "Image",
+            "id": "45084fe6-c92d-481c-bcaf-724ad8977c29",
+            "label": "cat3",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "cat3"
+            },
+            "x": 598,
+            "y": 364,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "26cfde38-09a7-4c0f-be91-14a5da7384c9",
+            "label": "pencilholder",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "pencilholder"
+            },
+            "x": 823,
+            "y": 419,
+            "scaleX": 0.45,
+            "scaleY": 0.45
+        },
+        {
+            "type": "Image",
+            "id": "d8a69082-1063-4c4e-ba79-227e6bfff829",
+            "label": "subtable",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "subtable"
+            },
+            "x": 1086,
+            "y": 527,
+            "scaleX": 0.75,
+            "scaleY": 0.75
+        },
+        {
+            "type": "Image",
+            "id": "d1250ff9-25cb-41c2-88bc-8e4dd3518066",
+            "label": "subtable_1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "subtable"
+            },
+            "x": 197,
+            "y": 543,
+            "scaleX": 0.75,
+            "scaleY": 0.75
+        },
+        {
+            "type": "Image",
+            "id": "d7505d10-7186-401b-9198-72f336243f90",
+            "label": "startgame",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "startgame"
+            },
+            "x": 1086,
+            "y": 298,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "9c6a6bac-11f6-4cc9-90c2-39ff50740ffd",
+            "label": "deco1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "deco1"
+            },
+            "x": 989,
+            "y": 124
+        },
+        {
+            "type": "Image",
+            "id": "bc907025-fbbc-479b-954c-a94ce8475b13",
+            "label": "deco2",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "deco2"
+            },
+            "x": 205,
+            "y": 301,
+            "scaleX": 0.75,
+            "scaleY": 0.75
+        },
+        {
+            "type": "Image",
+            "id": "288ecd4d-0157-4bae-9743-ffa04acb2e90",
+            "label": "clock",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "clock"
+            },
+            "x": 96,
+            "y": 96,
+            "scaleX": 0.4,
+            "scaleY": 0.4
+        },
+        {
+            "type": "Image",
+            "id": "b96004f5-6646-49b4-a881-9c1cea9444df",
+            "label": "sub",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "sub"
+            },
+            "x": 637,
+            "y": 143
+        },
+        {
+            "type": "Image",
+            "id": "f22368a8-8406-493d-9f4b-22845002da88",
+            "label": "howbtn",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "howbtn"
+            },
+            "x": 636,
+            "y": 537,
+            "scaleX": 0.6,
+            "scaleY": 0.65
+        },
+        {
+            "type": "Image",
+            "id": "6da49184-05f9-4500-9900-694858c21f9f",
+            "label": "sleep",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "sleep"
+            },
+            "x": 838,
+            "y": 273,
+            "scaleX": 0.7,
+            "scaleY": 0.7
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

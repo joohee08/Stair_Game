@@ -1,0 +1,186 @@
+{
+    "id": "c25cbd86-63bc-4fd3-9c9f-8419869228a9",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Guide",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "5e954a71-934a-4d2a-9e1f-bc10c797f691",
+            "label": "sky_background",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "sky_background"
+            },
+            "x": 641,
+            "y": 358
+        },
+        {
+            "type": "Image",
+            "id": "c8167137-e401-409b-80f2-45e79fc97dd5",
+            "label": "ex_scene1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "ex_scene1"
+            },
+            "x": 220,
+            "y": 233,
+            "scaleX": 1.15,
+            "scaleY": 1.15
+        },
+        {
+            "type": "Image",
+            "id": "b8147b17-8259-4e87-b512-fb4afc9fad2a",
+            "label": "txt_bubble1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "txt_bubble1"
+            },
+            "x": 479,
+            "y": 513,
+            "scaleX": 1.05,
+            "scaleY": 1.05
+        },
+        {
+            "type": "Image",
+            "id": "195e5255-2814-4621-b7c6-a48b4b9eaa84",
+            "label": "ex_scene2",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "ex_scene2"
+            },
+            "x": 760,
+            "y": 220,
+            "scaleX": 1.1,
+            "scaleY": 1.1
+        },
+        {
+            "type": "Image",
+            "id": "34799f7f-934a-4f79-a057-78ca7bc5fbf0",
+            "label": "txt_bubble2",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "txt_bubble2"
+            },
+            "x": 1047,
+            "y": 501,
+            "scaleX": 1.1,
+            "scaleY": 1.1
+        },
+        {
+            "type": "Image",
+            "id": "de8671c8-f11f-45c0-b220-7d2abe021b2d",
+            "label": "bub1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "bub1"
+            },
+            "x": 137,
+            "y": 544,
+            "angle": 4
+        },
+        {
+            "type": "Image",
+            "id": "5c19be98-1364-43c8-bcf1-a77c1b626def",
+            "label": "bub2",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "bub2"
+            },
+            "x": 236,
+            "y": 650
+        },
+        {
+            "type": "Image",
+            "id": "fd5fd6bb-5d33-47a1-a13c-d1c87bb59a68",
+            "label": "bub",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "bub2"
+            },
+            "x": 827,
+            "y": 645
+        },
+        {
+            "type": "Image",
+            "id": "1c73db49-f143-466e-9b9d-b68494add207",
+            "label": "bub3",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "bub3"
+            },
+            "x": 757,
+            "y": 530
+        },
+        {
+            "type": "Image",
+            "id": "a427948b-284e-4c4a-a56b-e2ba5a641939",
+            "label": "bub5",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "bub5"
+            },
+            "x": 1128,
+            "y": 200,
+            "angle": 28
+        },
+        {
+            "type": "Image",
+            "id": "f5fa9513-b9c2-4beb-aec4-866b2075845d",
+            "label": "bub6",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "bub6"
+            },
+            "x": 1223,
+            "y": 248
+        },
+        {
+            "type": "Image",
+            "id": "d6f4fb53-2c01-4f0f-8f13-4a1669e15094",
+            "label": "sleeping2",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "sleeping2"
+            },
+            "x": 689,
+            "y": 658
+        },
+        {
+            "type": "Image",
+            "id": "bb7101a8-3de1-4403-93c7-08994bf32222",
+            "label": "sleeping1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "sleeping1"
+            },
+            "x": 510,
+            "y": 182
+        },
+        {
+            "type": "Image",
+            "id": "df9f6dac-faad-4f47-bc9f-0414fd4c3c99",
+            "label": "go_backbtn",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "go_backbtn"
+            },
+            "x": 1163,
+            "y": 54,
+            "scaleX": 0.45,
+            "scaleY": 0.5
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

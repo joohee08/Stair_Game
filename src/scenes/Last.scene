@@ -1,0 +1,138 @@
+{
+    "id": "383e935d-3d79-4d67-8496-0f18d2b9fb45",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Last",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "c6d864e4-a3cd-4dbd-b2c3-6d18d7860e46",
+            "label": "office5",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "office5"
+            },
+            "x": 640,
+            "y": 349,
+            "scaleX": 1.6,
+            "scaleY": 1.49
+        },
+        {
+            "type": "Image",
+            "id": "94381536-075d-4027-8e7a-0c8ed2c3de31",
+            "label": "congrats",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "congrats"
+            },
+            "x": 661,
+            "y": 241
+        },
+        {
+            "type": "Image",
+            "id": "bbf4097a-78ee-4e0c-ac5b-ada2f49addbb",
+            "label": "sofa",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "sofa"
+            },
+            "x": 650,
+            "y": 568,
+            "scaleX": 0.7,
+            "scaleY": 0.75
+        },
+        {
+            "type": "Image",
+            "id": "85ce98fc-1c14-4a7b-bd02-15ff05266be8",
+            "label": "cat6",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "cat6"
+            },
+            "x": 662,
+            "y": 492,
+            "scaleX": 0.55,
+            "scaleY": 0.55
+        },
+        {
+            "type": "Container",
+            "id": "fa0240a8-839c-4dde-b961-df185261cf9a",
+            "label": "lastbtn2",
+            "useGameObjectName": true,
+            "x": 947,
+            "y": 511,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "7d288b2d-339a-45c8-9c9b-f5e592b32de8",
+                    "label": "home",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "home"
+                    },
+                    "x": 3,
+                    "y": 76,
+                    "scaleX": 0.4,
+                    "scaleY": 0.4
+                },
+                {
+                    "type": "Image",
+                    "id": "824d8032-6ce3-4aaa-af24-3c3a0929ebb4",
+                    "label": "catpaw1",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "catpaw"
+                    },
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "ad63b12e-3d0d-4c6d-a905-6da929d1b163",
+            "label": "lastbtn1",
+            "useGameObjectName": true,
+            "x": 368,
+            "y": 506,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "5ac0922d-627c-4758-946a-188f647c3709",
+                    "label": "retry",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "retry"
+                    },
+                    "x": 1,
+                    "y": 77,
+                    "scaleX": 0.4,
+                    "scaleY": 0.4
+                },
+                {
+                    "type": "Image",
+                    "id": "26fd959c-fb9b-46e4-87d8-fd2d0a9021c8",
+                    "label": "catpaw2",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "catpaw"
+                    },
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/background.png",
+                "type": "image",
+                "key": "background"
+            },
+            {
+                "url": "assets/bluebk.png",
+                "type": "image",
+                "key": "bluebk"
+            },
+            {
+                "url": "assets/box.png",
+                "type": "image",
+                "key": "box"
+            },
+            {
+                "url": "assets/bub1.png",
+                "type": "image",
+                "key": "bub1"
+            },
+            {
+                "url": "assets/bub2.png",
+                "type": "image",
+                "key": "bub2"
+            },
+            {
+                "url": "assets/bub3.png",
+                "type": "image",
+                "key": "bub3"
+            },
+            {
+                "url": "assets/bub4.png",
+                "type": "image",
+                "key": "bub4"
+            },
+            {
+                "url": "assets/bub5.png",
+                "type": "image",
+                "key": "bub5"
+            },
+            {
+                "url": "assets/bub6.png",
+                "type": "image",
+                "key": "bub6"
+            },
+            {
+                "url": "assets/cat1.png",
+                "type": "image",
+                "key": "cat1"
+            },
+            {
+                "url": "assets/cat3.png",
+                "type": "image",
+                "key": "cat3"
+            },
+            {
+                "url": "assets/cat6.png",
+                "type": "image",
+                "key": "cat6"
+            },
+            {
+                "url": "assets/catpaw.png",
+                "type": "image",
+                "key": "catpaw"
+            },
+            {
+                "url": "assets/chair.png",
+                "type": "image",
+                "key": "chair"
+            },
+            {
+                "url": "assets/clock.png",
+                "type": "image",
+                "key": "clock"
+            },
+            {
+                "url": "assets/cloud.png",
+                "type": "image",
+                "key": "cloud"
+            },
+            {
+                "url": "assets/coin.png",
+                "type": "image",
+                "key": "coin"
+            },
+            {
+                "url": "assets/congrats.png",
+                "type": "image",
+                "key": "congrats"
+            },
+            {
+                "url": "assets/deco1.png",
+                "type": "image",
+                "key": "deco1"
+            },
+            {
+                "url": "assets/deco2.png",
+                "type": "image",
+                "key": "deco2"
+            },
+            {
+                "url": "assets/desk.png",
+                "type": "image",
+                "key": "desk"
+            },
+            {
+                "url": "assets/ex_scene1.png",
+                "type": "image",
+                "key": "ex_scene1"
+            },
+            {
+                "url": "assets/ex_scene2.png",
+                "type": "image",
+                "key": "ex_scene2"
+            },
+            {
+                "url": "assets/go_backbtn.png",
+                "type": "image",
+                "key": "go_backbtn"
+            },
+            {
+                "url": "assets/home.png",
+                "type": "image",
+                "key": "home"
+            },
+            {
+                "url": "assets/howbtn.png",
+                "type": "image",
+                "key": "howbtn"
+            },
+            {
+                "url": "assets/leftbtn1.png",
+                "type": "image",
+                "key": "leftbtn1"
+            },
+            {
+                "url": "assets/mat.png",
+                "type": "image",
+                "key": "mat"
+            },
+            {
+                "url": "assets/o.png",
+                "type": "image",
+                "key": "o"
+            },
+            {
+                "url": "assets/office_bg.png",
+                "type": "image",
+                "key": "office_bg"
+            },
+            {
+                "url": "assets/office5.png",
+                "type": "image",
+                "key": "office5"
+            },
+            {
+                "url": "assets/pencilholder.png",
+                "type": "image",
+                "key": "pencilholder"
+            },
+            {
+                "url": "assets/pinkbk.png",
+                "type": "image",
+                "key": "pinkbk"
+            },
+            {
+                "url": "assets/quizbox.png",
+                "type": "image",
+                "key": "quizbox"
+            },
+            {
+                "url": "assets/retry.png",
+                "type": "image",
+                "key": "retry"
+            },
+            {
+                "url": "assets/rightbtn1.png",
+                "type": "image",
+                "key": "rightbtn1"
+            },
+            {
+                "url": "assets/sky_background.png",
+                "type": "image",
+                "key": "sky_background"
+            },
+            {
+                "url": "assets/sleep.png",
+                "type": "image",
+                "key": "sleep"
+            },
+            {
+                "url": "assets/sleeping1.png",
+                "type": "image",
+                "key": "sleeping1"
+            },
+            {
+                "url": "assets/sleeping2.png",
+                "type": "image",
+                "key": "sleeping2"
+            },
+            {
+                "url": "assets/sofa.png",
+                "type": "image",
+                "key": "sofa"
+            },
+            {
+                "url": "assets/star_off.png",
+                "type": "image",
+                "key": "star_off"
+            },
+            {
+                "url": "assets/star_on.png",
+                "type": "image",
+                "key": "star_on"
+            },
+            {
+                "url": "assets/startgame.png",
+                "type": "image",
+                "key": "startgame"
+            },
+            {
+                "url": "assets/sub.png",
+                "type": "image",
+                "key": "sub"
+            },
+            {
+                "url": "assets/subtable.png",
+                "type": "image",
+                "key": "subtable"
+            },
+            {
+                "url": "assets/txt_bubble1.png",
+                "type": "image",
+                "key": "txt_bubble1"
+            },
+            {
+                "url": "assets/txt_bubble2.png",
+                "type": "image",
+                "key": "txt_bubble2"
+            },
+            {
+                "url": "assets/x.png",
+                "type": "image",
+                "key": "x"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

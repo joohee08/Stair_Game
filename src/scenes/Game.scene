@@ -1,0 +1,663 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "a5506e47-d23c-4cd4-97e2-2514adb99594",
+            "label": "office_bg",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "office_bg"
+            },
+            "x": 641,
+            "y": -1107,
+            "scaleX": 1.6,
+            "scaleY": 1.52
+        },
+        {
+            "type": "Image",
+            "id": "33f3f09f-b18c-4e09-84fd-0ef02210ccbf",
+            "label": "cat1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "cat1"
+            },
+            "x": 674,
+            "y": 566,
+            "scaleX": 0.6,
+            "scaleY": 0.6
+        },
+        {
+            "type": "Image",
+            "id": "46b51427-0f18-48d5-b51b-e3d42cf3db10",
+            "label": "rightbtn1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "rightbtn1"
+            },
+            "x": 1111,
+            "y": 656,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        },
+        {
+            "type": "Image",
+            "id": "21212c2a-df7e-446e-b393-9ca37f1ea9c6",
+            "label": "leftbtn1",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "leftbtn1"
+            },
+            "x": 187,
+            "y": 654,
+            "scaleX": 0.3,
+            "scaleY": 0.3
+        },
+        {
+            "type": "Container",
+            "id": "296715e3-611a-47e3-915b-0b774f4f20e4",
+            "label": "blue1",
+            "useGameObjectName": true,
+            "x": 236,
+            "y": 382,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "be7f3e83-7e6f-4fcd-b2bb-ef564b791eb8",
+                    "label": "bluebk1",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "bluebk"
+                    },
+                    "x": 17,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "826b3d1f-4b95-4b84-8a6d-23d1db545196",
+                    "label": "cloud1",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 2,
+                    "y": 67,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "e53a0cea-82d8-4e24-87eb-09f1f5944fa2",
+                    "label": "o1",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "o"
+                    },
+                    "y": 70,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "84f6d3e8-bf65-4a45-8ff2-35545abdb628",
+            "label": "pink1",
+            "useGameObjectName": true,
+            "x": 1007,
+            "y": 388,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "7a0aaba3-25ea-4e49-a807-cb3a2915a9c9",
+                    "label": "pinkbk1",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "pinkbk"
+                    },
+                    "x": 23,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "6099be9f-529c-4774-8a4e-562c354d3a04",
+                    "label": "cloud2-1",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 6,
+                    "y": 54,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "974c7740-8f26-4d8b-8bc2-a57cb100b579",
+                    "label": "x1",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "x"
+                    },
+                    "y": 59,
+                    "scaleX": 0.35,
+                    "scaleY": 0.35
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "3b309aa4-6250-499e-a991-76976191f571",
+            "label": "blue2",
+            "useGameObjectName": true,
+            "x": 236,
+            "y": 382,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "3dce068e-ac17-47f7-8a06-42f8370abebe",
+                    "label": "bluebk2",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "bluebk"
+                    },
+                    "x": 17,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "163bd841-7e1e-4d56-9644-25d8a9a7ecfa",
+                    "label": "cloud1-2",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 2,
+                    "y": 67,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "fb49cf26-c232-489a-ab3b-7c3b0867b240",
+                    "label": "o2",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "o"
+                    },
+                    "y": 70,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "ff43b5c1-b6e3-42d9-9349-c1554a03ca81",
+            "label": "blue3",
+            "useGameObjectName": true,
+            "x": 236,
+            "y": 382,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "a8588d4e-bad7-4508-8269-8200264802d0",
+                    "label": "bluebk3",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "bluebk"
+                    },
+                    "x": 17,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "2ae73cbb-2d48-4e8d-bd49-030ae8c77916",
+                    "label": "cloud1-3",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 2,
+                    "y": 67,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "f3a829e0-2228-446a-b1a4-b86201d39c7c",
+                    "label": "o3",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "o"
+                    },
+                    "y": 70,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "afbc9085-1841-4fd8-9bb0-4686ff04fddd",
+            "label": "blue4",
+            "useGameObjectName": true,
+            "x": 236,
+            "y": 382,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "2c33ec6c-920f-4e22-bf87-7bbff7888ad9",
+                    "label": "bluebk4",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "bluebk"
+                    },
+                    "x": 17,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "aab3950d-2b86-4629-b62e-0f81f974e986",
+                    "label": "cloud1-4",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 2,
+                    "y": 67,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "81ab69c3-451c-49a2-9ba3-a9c891c7c84e",
+                    "label": "o4",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "o"
+                    },
+                    "y": 70,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "ac2612be-8986-46a2-aef1-08b925cca9aa",
+            "label": "blue5",
+            "useGameObjectName": true,
+            "x": 236,
+            "y": 382,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "35e48471-793f-43ae-a9d8-e1427012f819",
+                    "label": "bluebk5",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "bluebk"
+                    },
+                    "x": 17,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "b990e514-0f83-4039-805d-207aeb0d1f8f",
+                    "label": "cloud1-5",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 2,
+                    "y": 67,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "c43d76af-6da3-49f8-a182-2366a9467c55",
+                    "label": "o5",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "o"
+                    },
+                    "y": 70,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "70ff9d21-17e1-48de-a257-d4179b3f0a9d",
+            "label": "pink2",
+            "useGameObjectName": true,
+            "x": 1007,
+            "y": 388,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "e7ab187b-1157-429e-bacf-1c57275706d6",
+                    "label": "pinkbk2",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "pinkbk"
+                    },
+                    "x": 23,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "ce8bb8f2-d609-4c12-a4e1-54f52a0b8b62",
+                    "label": "cloud2-2",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 6,
+                    "y": 54,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "8c1af3c8-ca80-44f2-9df0-5ad0cf511dac",
+                    "label": "x2",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "x"
+                    },
+                    "y": 59,
+                    "scaleX": 0.35,
+                    "scaleY": 0.35
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "8b4a900a-5a11-42d1-8bca-f190087a705b",
+            "label": "pink3",
+            "useGameObjectName": true,
+            "x": 1007,
+            "y": 388,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "9498b89d-4b31-4fd9-ad5c-4bed6ae02e65",
+                    "label": "pinkbk3",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "pinkbk"
+                    },
+                    "x": 23,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "a38952d2-485d-4a59-8dac-e6698c9cac8d",
+                    "label": "cloud2-3",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 6,
+                    "y": 54,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "0703251a-439d-4397-bef5-95d1ef214631",
+                    "label": "x3",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "x"
+                    },
+                    "y": 59,
+                    "scaleX": 0.35,
+                    "scaleY": 0.35
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "829c28bf-4076-41fd-9411-43e6c5d56841",
+            "label": "pink4",
+            "useGameObjectName": true,
+            "x": 1007,
+            "y": 388,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "2857f01d-b3df-49c3-b795-1e700ada3798",
+                    "label": "pinkbk4",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "pinkbk"
+                    },
+                    "x": 23,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "8b2fba5d-c429-4ba9-b2a9-9a9579935546",
+                    "label": "cloud2-4",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 6,
+                    "y": 54,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "7beceea5-5d33-463a-85d9-81b40ca5f04c",
+                    "label": "x4",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "x"
+                    },
+                    "y": 59,
+                    "scaleX": 0.35,
+                    "scaleY": 0.35
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "6ff3bdf0-c19e-4ad8-a6f0-be394da2034e",
+            "label": "pink5",
+            "useGameObjectName": true,
+            "x": 1007,
+            "y": 388,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "bdf62d06-cb05-4f29-adea-933bdc32e7f8",
+                    "label": "pinkbk5",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "pinkbk"
+                    },
+                    "x": 23,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                },
+                {
+                    "type": "Image",
+                    "id": "a0df7f2f-87b1-4e87-adfc-afb9569e6e40",
+                    "label": "cloud2-5",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "cloud"
+                    },
+                    "x": 6,
+                    "y": 54,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "ebcc323e-1385-40c0-8309-0d83413c5a33",
+                    "label": "x5",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "x"
+                    },
+                    "y": 59,
+                    "scaleX": 0.35,
+                    "scaleY": 0.35
+                }
+            ]
+        },
+        {
+            "type": "Image",
+            "id": "598473e7-7b1d-4fc4-82b5-b3df503fc0d4",
+            "label": "box",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "box"
+            },
+            "x": 647,
+            "y": 160
+        },
+        {
+            "type": "Text",
+            "id": "41f9f6c9-e211-48ba-a3e9-ff9dee2473b4",
+            "label": "questionText",
+            "useGameObjectName": true,
+            "x": 480,
+            "y": 127,
+            "text": "문제",
+            "lineSpacing": 4,
+            "align": "center",
+            "fontFamily": "Arial",
+            "fontSize": "24px",
+            "color": "#000000ff",
+            "wordWrapWidth": 380
+        },
+        {
+            "type": "Image",
+            "id": "c809b954-6936-4a70-b2de-5ccd9b2eb0c6",
+            "label": "quizbox",
+            "useGameObjectName": true,
+            "texture": {
+                "key": "quizbox"
+            },
+            "x": 644,
+            "y": 42,
+            "scaleX": 1.25,
+            "scaleY": 1.05
+        },
+        {
+            "type": "Text",
+            "id": "e2b9bdd0-45fc-44e0-9bf9-13f5b7ffa7b1",
+            "label": "quiznum",
+            "useGameObjectName": true,
+            "x": 588,
+            "y": 23,
+            "text": "퀴즈번호",
+            "fontFamily": "Arial",
+            "fontSize": "27px",
+            "color": "#000000ff",
+            "wordWrapWidth": 380
+        },
+        {
+            "type": "Container",
+            "id": "2d49257d-3e95-4b02-a31d-1ab676937e17",
+            "label": "FiveStars",
+            "useGameObjectName": true,
+            "x": 57,
+            "y": 55,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "db01f78e-6873-4caa-b72a-608076ce6abc",
+                    "label": "star_off1",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "star_off"
+                    },
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                },
+                {
+                    "type": "Image",
+                    "id": "11bcf395-4c4a-4984-b9ca-c1953be95b01",
+                    "label": "star_off3",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "star_off"
+                    },
+                    "x": 137,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                },
+                {
+                    "type": "Image",
+                    "id": "8d5be5ec-ad00-4276-85db-a0aee769d479",
+                    "label": "star_off2",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "star_off"
+                    },
+                    "x": 70,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                },
+                {
+                    "type": "Image",
+                    "id": "5d36171e-d093-4413-8aac-c5c9b333f58d",
+                    "label": "star_off5",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "star_off"
+                    },
+                    "x": 272,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                },
+                {
+                    "type": "Image",
+                    "id": "6c326ed1-ee88-4b22-8a85-ac8c2ae5198d",
+                    "label": "star_off4",
+                    "useGameObjectName": true,
+                    "texture": {
+                        "key": "star_off"
+                    },
+                    "x": 204,
+                    "scaleX": 0.2,
+                    "scaleY": 0.2
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}
